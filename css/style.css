@@ -1,0 +1,25 @@
+.box {
+  border: 1px solid rgb(1, 187, 32);
+  padding: 10px;
+}
+
+.invalidFileType {
+  border: 1px solid rgb(255, 0, 0);
+  color: red;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.wrapper {
+  width: 100px;
+  height: 100px;
+  background-color: rgb(241, 241, 241);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper .icon {
+  color: rgb(0, 203, 218);
+  font-size: 60px;
+}
